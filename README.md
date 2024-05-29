@@ -6,3 +6,5 @@ Bharat Yatra is a tourist app that provides descriptions about different tourist
 
 The loader has a logo and a fun fact.
 
+<a href=http://localhost:5173/>live demo</a>
+
