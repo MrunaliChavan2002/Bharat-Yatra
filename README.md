@@ -6,6 +6,14 @@ Bharat Yatra is a tourist app that provides descriptions about different tourist
 
 The loader has a logo and a fun fact.
 
+<h1>Technology</h1>
+ReactJS<br>
+Vite<br>
+Javascript<br>
+CSS<br>
+Html
+
+
 <a href=https://mrunalichavan2002.github.io/Bharat-Yatra/>live demo</a>
 
 visit here https://mrunalichavan2002.github.io/Bharat-Yatra/
