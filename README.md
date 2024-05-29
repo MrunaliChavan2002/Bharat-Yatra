@@ -16,5 +16,5 @@ Html
 
 <a href=https://mrunalichavan2002.github.io/Bharat-Yatra/>live demo</a>
 
-visit here https://mrunalichavan2002.github.io/Bharat-Yatra/
+visit here [https://mrunalichavan2002.github.io/Bharat-Yatra/](https://mrunalis-website.vercel.app/)
 
