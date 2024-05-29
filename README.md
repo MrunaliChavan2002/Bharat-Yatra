@@ -8,3 +8,5 @@ The loader has a logo and a fun fact.
 
 <a href=https://mrunalichavan2002.github.io/Bharat-Yatra/>live demo</a>
 
+visit here https://mrunalichavan2002.github.io/Bharat-Yatra/
+
