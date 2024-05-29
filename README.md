@@ -13,6 +13,5 @@ Javascript<br>
 CSS<br>
 Html
 
-<a href=[https://mrunalichavan2002.github.io/Bharat-Yatra/](https://mrunalis-website.vercel.app/)>Live Demo</a>
-visit here [https://mrunalichavan2002.github.io/Bharat-Yatra/](https://mrunalis-website.vercel.app/)
+visit here <a href=[https://mrunalichavan2002.github.io/Bharat-Yatra/](https://mrunalis-website.vercel.app/)>link</a>
 
